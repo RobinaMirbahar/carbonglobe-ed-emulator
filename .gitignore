@@ -1,0 +1,7 @@
+# Protect unpublished manuscript, LaTeX sources, and PDFs
+*.pdf
+camera_ready/
+report/
+__pycache__/
+*.pyc
+.env
